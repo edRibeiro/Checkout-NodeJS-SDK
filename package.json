@@ -34,7 +34,8 @@
   "scripts": {
     "test:integration": "mocha spec --recursive",
     "test": "npm run test:integration",
-    "test:orders": "mocha spec/orders --recursive --timeout 60000"
+    "test:orders": "mocha spec/orders --recursive --timeout 60000",
+    "test:customers": "mocha spec/customers --recursive --timeout 60000"
   },
   "bugs": {
     "url": "https://github.com/paypal/Checkout-NodeJS-SDK/issues"
