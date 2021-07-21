@@ -1,7 +1,7 @@
 {
-  "name": "@paypal/checkout-server-sdk",
+  "name": "@edribeiro/checkout-server-sdk",
   "version": "1.0.2",
-  "description": "NodeJS SDK for PayPal Checkout APIs",
+  "description": "A fork of NodeJS SDK for PayPal Checkout APIs",
   "keywords": [],
   "homepage": "https://github.com/paypal/Checkout-NodeJS-SDK#readme",
   "author": "dl-paypal-checkout-api@paypal.com (https://developer.paypal.com/)",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/paypal/Checkout-NodeJS-SDK.git"
+    "url": "https://github.com/edRibeiro/Checkout-NodeJS-SDK.git"
   },
   "engines": {
     "node": ">=8"
