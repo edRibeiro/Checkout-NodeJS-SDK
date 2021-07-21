@@ -39,5 +39,6 @@
   },
   "bugs": {
     "url": "https://github.com/paypal/Checkout-NodeJS-SDK/issues"
-  }
+  },
+  "private": false
 }
